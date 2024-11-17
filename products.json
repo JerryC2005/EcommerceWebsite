@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Yu-Gi-Oh! TCG: 25th Anniversary Tin - Dueling Heroes",
+        "description": "3 x 18-card Mega-Packs",
+        "price": 15.24,
+        "image": "images/2023-Tin_550.png"
+      },
+      {
+        "name": "YuGiOh! Trading Card Game Saga of Blue-Eyes White Dragon Structure Deck",
+        "description": "This epic Structure Deck includes 37 common, 2 ultra rare, 2 super rare cards, 1 deluxe game mat, and 1 dueling guide",
+        "price": 12.45,
+        "image": "images/product2.webp"
+      },
+      {
+        "name": "Pokemon Scarlet & Violet 3 Obsidian Flames Build & Battle Box",
+        "description": "The Pokemon: Scarlet & Violet Obsidian Flames Build & Battle Kit",
+        "price": 20.40,
+        "image": "images/product3.jpg"
+      },
+      {
+        "name": "Pokemon Scarlet & Violet 3 Obsidian Flames Elite Trainer Box",
+        "description": "includes 9 Pokémon TCG: Scarlet & Violet—Obsidian Flames booster packs and 1 full-art foil promo card featuring Charmander. and many other goodies!",
+        "price": 44.45,
+        "image": "images/product4.jpg"
+      },
+      {
+        "name": "Dragon Ball Super CG: Starter Deck Zenkai Series Set 05",
+        "description": "Starter deck debutes of a SSGSS Vegito Leader Card from the Prison Planet Saga! Recreates Vegito's ultimate move as a Z-Extra!",
+        "price": 13.39,
+        "image": "images/product5.jpg"
+      },
+      {
+        "name": "Dragon Ball Super TCG: Fusion World Awakened Pulse Booster Box",
+        "description": "Booster box contains 24 packs each containing 12 cards.",
+        "price": 87.95,
+        "image": "images/product6.jpg"
+      },
+      {
+        "name": "Yu-Gi-Oh! TCG: Tactical Masters Booster Box",
+        "description": "24 packs per box and 7 cards per pack",
+        "price": 28,
+        "image": "images/product7.jpg"
+      },
+      {
+        "name": "Yu-Gi-Oh! TCG: Battle of Chaos Booster",
+        "description": "24 packs per box and 7 cards per pack",
+        "price": 82.98,
+        "image": "images/product8.jpg"
+      },
+      {
+        "name": "Pokemon TCG: Scarlet & Violet Stellar Crown Booster Box",
+        "description": "The Pokémon TCG: Scarlet & Violet—Stellar Crown Booster Display Box contain 36 booster packs for the new Pokémon TCG: Scarlet & Violet—Stellar Crown expansion",
+        "price": 117,
+        "image": "images/product9.jpg"
+      },
+      {
+        "name": "Pokémon TCG: Scarlet & Violet Booster Display Box (36 Packs)",
+        "description": "Includes 36 booster packs from the Pokémon TCG: Scarlet & Violet expansion, Each booster pack contains 10 cards and 1 Basic Energy.",
+        "price": 119.93,
+        "image": "images/product10.jpg"
+      },
+      {
+        "name": "Power Absorbed Collector Booster Box",
+        "description": "Each box contains 12 Collector Booster packs and 10 cards each",
+        "price": 450,
+        "image": "images/product11.jpg"
+      },
+      {
+        "name": "Ultimate Advent Booster Box",
+        "description": "1 Box contains 24 Booster, 1 Booster Pack contains 12 cards.",
+        "price": 30,
+        "image": "images/product12.jpg"
+      }
+]
