@@ -1,8 +1,10 @@
 const form = document.getElementById("form");
+const phoneRegex = /^[0-9]{10}$/g
+const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
 
 //gets the products.json and displays the product 
-fetch("products.json")
-    .then(response => response.json())
+fetch("products.json") // gets data from JSON
+    .then(response => response.json()) // gets json data and converts it into array of objects
     .then(products => {
         const productGrid = document.querySelector(".product-grid");
 
@@ -53,8 +55,8 @@ form.addEventListener('submit', function(e) {
     const isValidFname = valid("fname", value => value.trim() !== "", "First Name is required.")
     const isValidLname = valid("lname", value => value.trim() !== "", "Last Name is required.")
 
-    const isValidPhone = valid('phone', value => /^[0-9]{10}$/g.test(value), 'Invalid phone number format')
-    const isValidEmail = valid('email', value => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value), 'Invalid email format')
+    const isValidPhone = valid('phone', value => phoneRegex.test(value), 'Invalid phone number format')
+    const isValidEmail = valid('email', value => emailRegex.test(value), 'Invalid email format')
 
     const isValidMsg = valid('comment', value => value.trim(value).length >= 5, 'Message must be at least 5 character long ')
     //if all fields valid it submits the form
